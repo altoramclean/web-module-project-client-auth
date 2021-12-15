@@ -27,6 +27,13 @@
 .App-link {
   color: #61dafb;
 }
+.Nav button{
+background-color: black;
+color: white;
+font-size: 16px;
+}
+
+
 
 @keyframes App-logo-spin {
   from {
